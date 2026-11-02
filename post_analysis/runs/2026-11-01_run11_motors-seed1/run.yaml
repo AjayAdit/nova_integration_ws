@@ -1,0 +1,10 @@
+run_id: 2026-11-01_run11_motors-seed1
+created: '2026-11-01T21:00:03'
+what_changed: motors seed 1
+baseline: false
+significant: true
+verdict: 28.88 cm; trace metrics same
+git:
+  commit: not a git repo
+  dirty: null
+notes: ''

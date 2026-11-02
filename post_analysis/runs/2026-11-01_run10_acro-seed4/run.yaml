@@ -1,0 +1,11 @@
+run_id: 2026-11-01_run10_acro-seed4
+created: '2026-11-01T20:59:35'
+what_changed: acro seed 4
+baseline: false
+significant: true
+verdict: 'FAIL 32.46 cm: 270 ms stall at t=10.2 s; two repeats passed; 32.46 cm; trace
+  metrics out: pT_mean_m,pT_max_m,vT_mean_ms,u_mean'
+git:
+  commit: not a git repo
+  dirty: null
+notes: ''

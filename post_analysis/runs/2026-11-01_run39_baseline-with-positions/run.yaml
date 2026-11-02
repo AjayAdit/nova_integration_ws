@@ -1,0 +1,10 @@
+run_id: 2026-11-01_run39_baseline-with-positions
+created: '2026-11-01T22:20:37'
+what_changed: Python baseline, recorded again with world positions
+baseline: false
+significant: false
+verdict: ''
+git:
+  commit: not a git repo
+  dirty: null
+notes: ''

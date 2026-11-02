@@ -1,0 +1,8 @@
+run_id,what_changed,baseline,significant,verdict,err_3d.mean_abs,err_3d.max_abs,ukf_err.mean_abs,lost.mean_abs,position_latency.mean_abs,command_latency.mean_abs
+2026-11-01_run01_baseline-python,Python NOVA_PAMPC pipeline: the reference,True,True,"baseline: 29.02 cm mean, 0 lost",29.0231,49.6692,26.452,0.0,nan,nan
+2026-11-01_run02_first-flight-acro,startup bug: controller flew on default attitude,False,True,"superseded by the fix; 1042.17 cm; trace metrics out: rows,pT_mean_m,pT_max_m,pT_final_m,vT_mean_ms,u_mean",1042.17,1583.02,13013.4,0.935,13.8462,2.97587
+2026-11-01_run05_start-together-motors,"motors, startup fixed",False,True,"29.24 cm; trace metrics out: pT_max_m,u_mean",29.2368,63.8058,25.8454,0.0,0.7,2.46623
+2026-11-01_run06_start-together-acro,"acro, startup fixed",False,True,"30.81 cm; trace metrics out: pT_mean_m,pT_max_m,u_mean",30.8142,68.1208,26.2975,0.0,0.746269,2.47124
+2026-11-01_run10_acro-seed4,acro seed 4,False,True,"FAIL 32.46 cm: 270 ms stall at t=10.2 s; two repeats passed; 32.46 cm; trace metrics out: pT_mean_m,pT_max_m,vT_mean_ms,u_mean",32.4639,66.2541,26.9818,0.0,4.15,2.11306
+2026-11-01_run11_motors-seed1,motors seed 1,False,True,28.88 cm; trace metrics same,28.8768,54.3479,25.6181,0.0,0.646766,1.978
+2026-11-01_run13_acro-seed0-repeat,acro seed 0 repeat,False,True,"30.32 cm; trace metrics out: pT_mean_m,pT_max_m,u_mean",30.3151,58.5124,26.2354,0.0,0.298507,1.943

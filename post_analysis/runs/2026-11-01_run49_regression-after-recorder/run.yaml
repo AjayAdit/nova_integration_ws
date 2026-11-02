@@ -1,0 +1,10 @@
+run_id: 2026-11-01_run49_regression-after-recorder
+created: '2026-11-01T22:47:50'
+what_changed: regression-after-recorder (acro, seed 0)
+baseline: false
+significant: false
+verdict: ''
+git:
+  commit: not a git repo
+  dirty: null
+notes: ''

@@ -1,0 +1,10 @@
+run_id: 2026-11-01_run09_acro-seed3
+created: '2026-11-01T20:59:08'
+what_changed: acro-seed3 (acro, seed 3)
+baseline: false
+significant: false
+verdict: '30.62 cm; trace metrics out: pT_mean_m,pT_max_m,u_mean'
+git:
+  commit: not a git repo
+  dirty: null
+notes: ''

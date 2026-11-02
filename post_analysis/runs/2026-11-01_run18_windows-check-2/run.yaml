@@ -1,0 +1,10 @@
+run_id: 2026-11-01_run18_windows-check-2
+created: '2026-11-01T21:38:57'
+what_changed: windows-check-2 (acro, seed 0)
+baseline: false
+significant: false
+verdict: 33.42 cm, 1 lost
+git:
+  commit: not a git repo
+  dirty: null
+notes: ''

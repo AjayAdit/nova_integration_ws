@@ -1,0 +1,10 @@
+run_id: 2026-11-01_run03_first-flight-motors
+created: '2026-11-01T20:53:16'
+what_changed: first-flight-motors (motors, seed 0)
+baseline: false
+significant: false
+verdict: 'failed: same startup bug, kept as diagnosis'
+git:
+  commit: not a git repo
+  dirty: null
+notes: ''

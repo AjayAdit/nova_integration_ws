@@ -1,0 +1,10 @@
+run_id: 2026-11-01_run31_yellow-path-no-mask
+created: '2026-11-01T21:58:46'
+what_changed: yellow-path-no-mask (acro, seed 0)
+baseline: false
+significant: false
+verdict: ''
+git:
+  commit: not a git repo
+  dirty: null
+notes: ''

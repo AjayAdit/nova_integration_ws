@@ -1,0 +1,10 @@
+run_id: 2026-11-01_run22_win-2
+created: '2026-11-01T21:41:24'
+what_changed: win-2 (acro, seed 0)
+baseline: false
+significant: false
+verdict: sim crashed at startup, no data
+git:
+  commit: not a git repo
+  dirty: null
+notes: ''

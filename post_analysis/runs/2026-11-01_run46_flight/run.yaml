@@ -1,0 +1,10 @@
+run_id: 2026-11-01_run46_flight
+created: '2026-11-01T22:43:46'
+what_changed: flight (acro, seed 0)
+baseline: false
+significant: false
+verdict: ''
+git:
+  commit: not a git repo
+  dirty: null
+notes: ''

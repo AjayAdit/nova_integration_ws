@@ -1,0 +1,10 @@
+run_id: 2026-11-01_run24_win-3
+created: '2026-11-01T21:41:54'
+what_changed: win-3 (acro, seed 0)
+baseline: false
+significant: false
+verdict: 31.42 cm, 0 lost
+git:
+  commit: not a git repo
+  dirty: null
+notes: ''

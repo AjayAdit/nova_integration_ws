@@ -1,0 +1,10 @@
+run_id: 2026-11-01_run45_my-test
+created: '2026-11-01T22:40:03'
+what_changed: my-test (acro, seed 0)
+baseline: false
+significant: false
+verdict: ''
+git:
+  commit: not a git repo
+  dirty: null
+notes: ''

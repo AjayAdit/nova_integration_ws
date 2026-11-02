@@ -1,0 +1,10 @@
+run_id: 2026-11-01_run02_first-flight-acro
+created: '2026-11-01T20:52:31'
+what_changed: 'startup bug: controller flew on default attitude'
+baseline: false
+significant: true
+verdict: 'superseded by the fix; 1042.17 cm; trace metrics out: rows,pT_mean_m,pT_max_m,pT_final_m,vT_mean_ms,u_mean'
+git:
+  commit: not a git repo
+  dirty: null
+notes: ''

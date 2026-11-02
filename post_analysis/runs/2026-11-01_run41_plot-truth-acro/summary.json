@@ -1,0 +1,18 @@
+{
+  "mean_3d_error_cm": 12.19032162188525,
+  "max_3d_error_cm": 44.65937207756963,
+  "mean_ukf_error_cm": 2.6151436582246306,
+  "frames": 200,
+  "lost_frames": 0,
+  "positions": 200,
+  "commands": 2000,
+  "position_latency_ms_mean": 0.5,
+  "position_latency_ms_p99": 10.0,
+  "command_latency_ms_mean": 0.725,
+  "command_latency_ms_p99": 10.0,
+  "real_time_factor": 0.9290890019056522,
+  "reference_quaternion_flips": 0,
+  "sim_end_s": 20.0,
+  "finished_by_itself": true,
+  "passed": true
+}

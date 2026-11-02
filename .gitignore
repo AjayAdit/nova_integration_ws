@@ -1,0 +1,11 @@
+build_nova/
+install_nova/
+log_nova/
+__pycache__/
+build/
+install/
+log/
+src/
+solver/acados_generated_nova/
+post_analysis/runs/*/raw/
+post_analysis/runs/*/plots/

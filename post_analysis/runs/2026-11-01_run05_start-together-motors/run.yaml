@@ -1,0 +1,10 @@
+run_id: 2026-11-01_run05_start-together-motors
+created: '2026-11-01T20:56:35'
+what_changed: motors, startup fixed
+baseline: false
+significant: true
+verdict: '29.24 cm; trace metrics out: pT_max_m,u_mean'
+git:
+  commit: not a git repo
+  dirty: null
+notes: ''

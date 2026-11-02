@@ -1,0 +1,10 @@
+run_id: 2026-11-01_run38_regression-normal
+created: '2026-11-01T22:11:30'
+what_changed: regression-normal (acro, seed 0)
+baseline: false
+significant: false
+verdict: ''
+git:
+  commit: not a git repo
+  dirty: null
+notes: ''

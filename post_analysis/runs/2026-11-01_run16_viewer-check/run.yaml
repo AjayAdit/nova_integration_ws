@@ -1,0 +1,10 @@
+run_id: 2026-11-01_run16_viewer-check
+created: '2026-11-01T21:32:29'
+what_changed: viewer-check (acro, seed 0)
+baseline: false
+significant: false
+verdict: 30.66 cm, 0 lost
+git:
+  commit: not a git repo
+  dirty: null
+notes: ''

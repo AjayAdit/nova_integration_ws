@@ -1,0 +1,39 @@
+# What each flight records and how it is judged. Used by scripts/pa.py.
+project: nova_integration
+source: csv
+csv_time_column: t
+
+signals:
+  standoff_ref:  {column: standoff_ref, unit: m}
+  standoff:      {column: standoff, unit: m}
+  height_ref:    {column: height_ref, unit: m}
+  height:        {column: height, unit: m}
+  err_ref:       {column: err_ref, unit: cm}
+  err_3d:        {column: err_3d_cm, unit: cm}
+  ukf_err:       {column: ukf_err_cm, unit: cm}
+  u0:            {column: u0}
+  lost_ref:      {column: lost_ref, time_column: t_frame}
+  lost:          {column: lost, time_column: t_frame}
+  latency_ref:   {column: latency_ref, time_column: t_latency, unit: ms}
+  position_latency: {column: position_latency_ms, time_column: t_latency, unit: ms}
+  command_latency:  {column: command_latency_ms, time_column: t_command, unit: ms}
+  command_ref:   {column: command_ref, time_column: t_command, unit: ms}
+
+pairs:
+  - {name: err_3d, expected: err_ref, actual: err_3d, unit: cm, expected_interp: linear}
+  - {name: standoff, expected: standoff_ref, actual: standoff, unit: m, expected_interp: linear}
+  - {name: height, expected: height_ref, actual: height, unit: m, expected_interp: linear}
+  - {name: ukf_err, expected: err_ref, actual: ukf_err, unit: cm, expected_interp: linear}
+  - {name: lost, expected: lost_ref, actual: lost, expected_interp: linear}
+  - {name: position_latency, expected: latency_ref, actual: position_latency, unit: ms, expected_interp: linear}
+  - {name: command_latency, expected: command_ref, actual: command_latency, unit: ms, expected_interp: linear}
+
+plots: [u0]
+
+compare_columns:
+  - err_3d.mean_abs
+  - err_3d.max_abs
+  - ukf_err.mean_abs
+  - lost.mean_abs
+  - position_latency.mean_abs
+  - command_latency.mean_abs

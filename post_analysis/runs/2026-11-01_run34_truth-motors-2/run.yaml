@@ -1,0 +1,10 @@
+run_id: 2026-11-01_run34_truth-motors-2
+created: '2026-11-01T22:09:36'
+what_changed: truth-motors-2 (motors, seed 2)
+baseline: false
+significant: false
+verdict: 'TEST ONLY, true state: 13.26 cm, 0 lost; pass limit does not apply'
+git:
+  commit: not a git repo
+  dirty: null
+notes: ''

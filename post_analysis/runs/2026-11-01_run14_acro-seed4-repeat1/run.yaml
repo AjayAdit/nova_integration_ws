@@ -1,0 +1,10 @@
+run_id: 2026-11-01_run14_acro-seed4-repeat1
+created: '2026-11-01T21:02:22'
+what_changed: acro-seed4-repeat1 (acro, seed 4)
+baseline: false
+significant: false
+verdict: '31.33 cm; trace metrics out: pT_mean_m,pT_max_m,u_mean'
+git:
+  commit: not a git repo
+  dirty: null
+notes: ''

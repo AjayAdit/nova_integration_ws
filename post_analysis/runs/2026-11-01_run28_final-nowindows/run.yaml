@@ -1,0 +1,10 @@
+run_id: 2026-11-01_run28_final-nowindows
+created: '2026-11-01T21:53:15'
+what_changed: final-nowindows (acro, seed 0)
+baseline: false
+significant: false
+verdict: 'INVALID: 6 leftover launches from a broken test overloaded the CPU'
+git:
+  commit: not a git repo
+  dirty: null
+notes: ''

@@ -1,0 +1,10 @@
+run_id: 2026-11-01_run37_truth-acro-3
+created: '2026-11-01T22:11:02'
+what_changed: truth-acro-3 (acro, seed 3)
+baseline: false
+significant: false
+verdict: 'TEST ONLY, true state: 12.09 cm, 0 lost; pass limit does not apply'
+git:
+  commit: not a git repo
+  dirty: null
+notes: ''

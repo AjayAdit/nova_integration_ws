@@ -1,0 +1,10 @@
+run_id: 2026-11-01_run20_win-1
+created: '2026-11-01T21:40:26'
+what_changed: win-1 (acro, seed 0)
+baseline: false
+significant: false
+verdict: 30.54 cm, 0 lost
+git:
+  commit: not a git repo
+  dirty: null
+notes: ''

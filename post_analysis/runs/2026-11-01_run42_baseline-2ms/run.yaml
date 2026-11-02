@@ -1,0 +1,10 @@
+run_id: 2026-11-01_run42_baseline-2ms
+created: '2026-11-01T22:26:15'
+what_changed: Python baseline at 2 m/s
+baseline: false
+significant: false
+verdict: ''
+git:
+  commit: not a git repo
+  dirty: null
+notes: ''

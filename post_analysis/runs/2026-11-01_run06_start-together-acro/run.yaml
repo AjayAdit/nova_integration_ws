@@ -1,0 +1,10 @@
+run_id: 2026-11-01_run06_start-together-acro
+created: '2026-11-01T20:57:07'
+what_changed: acro, startup fixed
+baseline: false
+significant: true
+verdict: '30.81 cm; trace metrics out: pT_mean_m,pT_max_m,u_mean'
+git:
+  commit: not a git repo
+  dirty: null
+notes: ''

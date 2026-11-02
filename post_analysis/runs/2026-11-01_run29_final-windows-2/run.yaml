@@ -1,0 +1,10 @@
+run_id: 2026-11-01_run29_final-windows-2
+created: '2026-11-01T21:55:38'
+what_changed: final-windows-2 (acro, seed 0)
+baseline: false
+significant: false
+verdict: ''
+git:
+  commit: not a git repo
+  dirty: null
+notes: ''

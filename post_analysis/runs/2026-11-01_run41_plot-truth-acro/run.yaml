@@ -1,0 +1,10 @@
+run_id: 2026-11-01_run41_plot-truth-acro
+created: '2026-11-01T22:22:02'
+what_changed: plot-truth-acro (acro, seed 0)
+baseline: false
+significant: false
+verdict: ''
+git:
+  commit: not a git repo
+  dirty: null
+notes: ''

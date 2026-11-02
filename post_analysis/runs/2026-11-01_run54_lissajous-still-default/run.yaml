@@ -1,0 +1,10 @@
+run_id: 2026-11-01_run54_lissajous-still-default
+created: '2026-11-01T22:58:43'
+what_changed: lissajous-still-default (acro, seed 0)
+baseline: false
+significant: false
+verdict: ''
+git:
+  commit: not a git repo
+  dirty: null
+notes: ''

@@ -1,0 +1,10 @@
+# Exact commits under test. To test a fix: push it to the owning repo, change the commit here.
+quad_nmpc_ros:
+  url: git@github.com:AjayAdit/NMPC_drone_standalone_ROS2.git
+  commit: '93d0b7b'
+target_ukf_ros:
+  url: git@github.com:AjayAdit/target_ukf_ros.git
+  commit: '042ee50'
+target_perception_ros:
+  url: git@github.com:AjayAdit/target_perception_ros.git
+  commit: 'b312f59'

@@ -1,0 +1,10 @@
+run_id: 2026-11-01_run04_one-step-per-tick
+created: '2026-11-01T20:54:14'
+what_changed: one-step-per-tick (motors, seed 0)
+baseline: false
+significant: false
+verdict: 'failed: same startup bug, kept as diagnosis'
+git:
+  commit: not a git repo
+  dirty: null
+notes: ''

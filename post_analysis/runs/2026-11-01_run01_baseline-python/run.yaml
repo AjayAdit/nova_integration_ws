@@ -1,0 +1,10 @@
+run_id: 2026-11-01_run01_baseline-python
+created: '2026-11-01T20:51:11'
+what_changed: 'Python NOVA_PAMPC pipeline: the reference'
+baseline: true
+significant: true
+verdict: 'baseline: 29.02 cm mean, 0 lost'
+git:
+  commit: not a git repo
+  dirty: null
+notes: ''

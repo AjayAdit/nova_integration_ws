@@ -1,0 +1,10 @@
+run_id: 2026-11-01_run25_nowin-4
+created: '2026-11-01T21:42:24'
+what_changed: nowin-4 (acro, seed 0)
+baseline: false
+significant: false
+verdict: 29.46 cm, 0 lost
+git:
+  commit: not a git repo
+  dirty: null
+notes: ''

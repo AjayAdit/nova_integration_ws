@@ -1,0 +1,10 @@
+run_id: 2026-11-01_run52_baseline-circle
+created: '2026-11-01T22:56:54'
+what_changed: Python baseline on the circle, 3 m/s
+baseline: false
+significant: false
+verdict: ''
+git:
+  commit: not a git repo
+  dirty: null
+notes: ''
